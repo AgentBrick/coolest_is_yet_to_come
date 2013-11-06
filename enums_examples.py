@@ -9,7 +9,7 @@ Created on Nov 2, 2013
 
 @contact: pablito56@gmail.com
 
-Examples of the new Python 3.4  Enum module
+Examples of the new Python 3.4 enum module
 """
 
 

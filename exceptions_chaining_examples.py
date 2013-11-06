@@ -9,7 +9,7 @@ Created on Nov 2, 2013
 
 @contact: pablito56@gmail.com
 
-Examples of the Python 3.3  raise from None statement
+Examples of the Python 3.0 and 3.3 new exceptions and its chaining
 """
 
 from urllib.request import urlopen
